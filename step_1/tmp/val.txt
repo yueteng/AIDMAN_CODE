@@ -1,0 +1,14 @@
+D:\Tuo\yolov5-cell/LabelmeData/20200106_S413.jpg
+D:\Tuo\yolov5-cell/LabelmeData/IMG_20200413_222735.jpg
+D:\Tuo\yolov5-cell/LabelmeData/IMG_20200413_222750.jpg
+D:\Tuo\yolov5-cell/LabelmeData/20200103_S197.jpg
+D:\Tuo\yolov5-cell/LabelmeData/IMG_20200413_225044.jpg
+D:\Tuo\yolov5-cell/LabelmeData/IMG_20200413_222507.jpg
+D:\Tuo\yolov5-cell/LabelmeData/IMG_20200413_213125.jpg
+D:\Tuo\yolov5-cell/LabelmeData/20200103_S222.jpg
+D:\Tuo\yolov5-cell/LabelmeData/IMG_20200310_115353.jpg
+D:\Tuo\yolov5-cell/LabelmeData/20200103_S213.jpg
+D:\Tuo\yolov5-cell/LabelmeData/IMG_20200310_120237.jpg
+D:\Tuo\yolov5-cell/LabelmeData/IMG_20200413_225008.jpg
+D:\Tuo\yolov5-cell/LabelmeData/IMG_20200310_115218.jpg
+D:\Tuo\yolov5-cell/LabelmeData/20200105_S387.jpg
